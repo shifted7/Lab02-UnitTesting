@@ -34,7 +34,7 @@ Then select and open ```ATM.sln```
 ### Visuals
 
 #### Application In Action
-![Image 1](assets/ATM function demo.png)
+![Image 1](https://github.com/shifted7/Lab02-UnitTesting/blob/master/assets/ATM%20function%20demo.png)
 #### Application Handling Exceptions and End
 ![Image 2](\assets\ATM handling exceptions demo.png)
 
