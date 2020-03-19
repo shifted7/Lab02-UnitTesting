@@ -36,7 +36,7 @@ Then select and open ```ATM.sln```
 #### Application In Action
 ![Image 1](\assets\ATM function demo.png)
 #### Application Handling Exceptions and End
-![Image 2](C:\Users\Andrew\codefellows\401\Lab02-UnitTesting\assets\ATM handling exceptions demo.png)
+![Image 2](\assets\ATM handling exceptions demo.png)
 
 ---
 
