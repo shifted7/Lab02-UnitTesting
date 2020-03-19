@@ -9,7 +9,7 @@ Lab02-UnitTesting
 ----
 
 ## Description
-This application has the functionality of an Automatic Teller Machine, allowing a user to check a fake balance, add money to the balance, and perform withdrawals.
+This application has the functionality of an Automatic Teller Machine, allowing a user to check a balance, add money to the balance, and perform withdrawals.
 
 ---
 
@@ -34,7 +34,7 @@ Then select and open ```ATM.sln```
 ### Visuals
 
 #### Application In Action
-![Image 1](\assets\ATM function demo.png)
+![Image 1](assets/ATM function demo.png)
 #### Application Handling Exceptions and End
 ![Image 2](\assets\ATM handling exceptions demo.png)
 
