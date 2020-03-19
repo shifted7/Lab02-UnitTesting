@@ -41,5 +41,5 @@ Then select and open ```ATM.sln```
 ---
 
 ### Change Log
-***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***  
+
 1.0: *Released with view balance, withdrawal, and add money functionality* - March 18-2020  
